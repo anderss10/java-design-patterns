@@ -1,2 +1,9 @@
 # java-design-patterns
-java object oriented design patterns
+Object-Oriented Design Patterns implemented in Java
+
+Patterns
+- Composite
+- Factory Method
+- Observer
+- State
+- Strategy
